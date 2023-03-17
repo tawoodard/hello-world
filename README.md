@@ -1,3 +1,5 @@
 # hello-world
-I don't know what I'm going to put in this.  This is a test.
-I am a programmer, but I have never used GitHub.
+This is a test.
+I have used GitHub, but I don't seem to be able to check in my changes or know what is the most recent,
+figure out what branch is where, integrate a branch, etc.
+This is an added line.
